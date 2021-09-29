@@ -104,7 +104,7 @@ As with maps, it is important to note that the array of Variants of Interest (VO
 
 ### 5. Tables
 
-Tables are typically used on dashboards as a secondary visual to provide details and context to a primary visual, as shown above in the [Variants over Time](https://github.com/ells/testWikiFunctionality/wiki/4.-Variants-over-Time) section. Tables, like the one shown below depicting variant frequencies in Washington State, are a staple format for epidemiological reports about public health investigations.
+Tables are typically used on dashboards as a secondary visual to provide details and context to a primary visual, as shown above in the [Variants over Time](#4-variants-over-time) section. Tables, like the one shown below depicting variant frequencies in Washington State, are a staple format for epidemiological reports about public health investigations.
 
 ![washington_covid_variant_table](images/washingtonTable1.png)
 
@@ -113,7 +113,7 @@ Tables are typically used on dashboards as a secondary visual to provide details
 Tables can also be used to provide very granular information broken out by a number of variables, such as a cross-tabulation of variants by county like the one shown below, also from Washington State.
 
 ![washington covid county-level crosstab of variants](images/washingtonTable2.png)
-> Above is a county-level cross tabulation of VOIs and VOCs, which can be helpful in digging through very granular data. Tables are an ideal companion visualization to provide context for a broad visualization (as identified on the [Variants over Time](https://github.com/ells/testWikiFunctionality/wiki/4.-Variants-over-Time) section).
+> Above is a county-level cross tabulation of VOIs and VOCs, which can be helpful in digging through very granular data. Tables are an ideal companion visualization to provide context for a broad visualization (as identified on the [Variants over Time](#4-variants-over-time) section).
 
 
 ### 6. Interaction and Filtering
