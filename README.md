@@ -3,12 +3,12 @@ This document is designed to identify commonly used dashboard elements to improv
 
 
 ## Table of Contents
-> - [Numeric Counts](#1.-numeric-counts)
-> - [Maps](#2.-maps)
+> - [Numeric Counts](#1-numeric-counts)
+> - [Maps](#2-maps)
 > - [Epidemiologic Curves](#3-epidemiologic-curves)
-> - [Variants over Time](#4.-variants-over-time)
-> - [Tables](#5.-tables)
-> - [Interaction and Filtering](#6.-interaction-and-filtering)
+> - [Variants over Time](#4-variants-over-time)
+> - [Tables](#5-tables)
+> - [Interaction and Filtering](#6-interaction-and-filtering)
 
 
 ### 1. Numeric Counts
